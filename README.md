@@ -1,2 +1,3 @@
-# bwa-store-html
-Slicing figma to html to develope in laravel
+# Larashop Html
+
+Slicing design from figma into html and css using bootstrap 4 and SCSS
