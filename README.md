@@ -10,3 +10,7 @@ Slicing design from figma into html and css using bootstrap 4 and SCSS
 - 3: 1rem (16px),
 - 4: 1.5rem (24px),
 - 5: 3rem (48px),
+
+### Sizing
+
+- w-100 means width: 100%
