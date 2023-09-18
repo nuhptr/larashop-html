@@ -2,6 +2,6 @@
 $(function () {
   $(document).scroll(function () {
     let $nav = $('.navbar-fixed-top')
-    $nav.toogleClass('scrolled', $(this).scrollTop() > $nav.height())
+    $nav.toggleClass('scrolled', $(this).scrollTop() > $nav.height())
   })
 })
